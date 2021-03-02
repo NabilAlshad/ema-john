@@ -1,0 +1,14 @@
+.products {
+  display: flex;
+  padding: 10px;
+  border-bottom: 1px solid gray;
+}
+.products-img {
+  margin-right: 30px;
+}
+.cart-button {
+  background-color: goldenrod;
+  width: 150px;
+  height: 30px;
+  border-radius: 1px solid grey;
+}
