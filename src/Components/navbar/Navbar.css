@@ -1,0 +1,21 @@
+.Nav {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+ul.navbar-nav {
+  display: inline;
+  margin: 0px auto;
+}
+
+a.nav-link {
+  text-decoration: none;
+  display: inline;
+  padding: 10px;
+  font-size: 20px;
+  margin-right: 20px;
+  color: white;
+}
+.nav-link:hover {
+  background-color: gray;
+}

@@ -1,0 +1,13 @@
+.row.product {
+  border-bottom: 1px solid black;
+  padding: 20px;
+}
+.main-button {
+  background: goldenrod;
+  width: 200px;
+  border-radius: 5px;
+  border: none;
+  height: 40px;
+  color: white;
+  font-size: 20px;
+}
